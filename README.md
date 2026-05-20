@@ -31,6 +31,12 @@ Master degree holder in Computer Science, and currently working as a software en
 **Backend:** REST APIs, JAX-RS, JDBC, Oracle EBS
 **Tools:** Git, Docker, Linux, CUDA
 
+### My GitHub activity
+
+![Ahmad's GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadAlkadi&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadAlkadi&layout=compact&theme=default&hide_border=true)
+
 ### Reach me
 
 - alkadiahmad889@gmail.com
